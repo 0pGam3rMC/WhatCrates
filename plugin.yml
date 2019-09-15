@@ -1,8 +1,8 @@
 name: WhatCrates
-description: WhatCrates is a crate plugin for Pocketmine-MP Servers.
+description: WhatCrates is customly made crates plugin for najeeslays
 version: 2.0.0
 author: SchdowNVIDIA
-api: 3.0.0
+api: 3.9.3
 main: SchdowNVIDIA\WhatCrates\Main
 
 permissions:
